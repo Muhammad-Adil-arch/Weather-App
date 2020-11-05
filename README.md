@@ -1,5 +1,5 @@
 # Weather-App
-This a simple weather application created in Vue js. This application shows the use of Vue cli 3 components and API calls. 
+This a simple weather application created in Vue js. This application shows the use of Vue cli and components.. 
 This tells the current weather condition of a place(city,country)
 
 # Requirements
