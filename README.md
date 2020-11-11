@@ -1,3 +1,6 @@
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+
+
 # Weather-App
 This a simple weather application created in Vue js. This application shows the use of Vue cli and components.. 
 This tells the current weather condition of a place(city,country)
